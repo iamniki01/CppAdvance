@@ -2,7 +2,7 @@
 
 C++ provides a list of standard exceptions defined in `<exception>`. These are arranged in parent-child hierarchy as follows
 
-![Standard exception list](exception\images\std_exceptn.PNG)
+![Standard exception list](images/std_exceptn.PNG)
 
 Apart from the above list, here are some additional points covered in this folder.
 
