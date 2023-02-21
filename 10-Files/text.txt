@@ -1,0 +1,3 @@
+Hello there!
+This file is written from write_file.cpp file
+123
